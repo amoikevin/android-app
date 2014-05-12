@@ -8,12 +8,12 @@ Android 2.2+
 
 ##Dependencies
 1. android-downloader [https://github.com/snowdream/android-downloader](https://github.com/snowdream/android-downloader)
-2. android-autoupdater [https://github.com/snowdream/android-autoupdater](https://github.com/snowdream/android-autoupdater)
+2. android-autoupdater [https://github.com/snowdream/android-autoupdater](https://github.com/snowdream/android-autoupdater)   
 Check this for more informaion. [build.gradle](https://github.com/snowdream/android-app/blob/master/lib/build.gradle)
 
 
 ##Download
-Download [the latest aar][1] and all the libraries in the file named build.gradle.
+Download [the latest aar][1] and all the libraries in the file named build.gradle.   
 [https://github.com/snowdream/android-app/blob/master/lib/build.gradle](https://github.com/snowdream/android-app/blob/master/lib/build.gradle)
 
 or grab via Maven:
